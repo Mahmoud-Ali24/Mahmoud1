@@ -316,7 +316,7 @@ header nav .form i {
   padding: 100px 0;
   position: relative;
   height: 600px;
-  background-image: url(/Images/design-features.jpg);
+  background-image: url(../Images/design-features.jpg);
   background-size: cover;
   overflow: hidden;
   display: flex;
