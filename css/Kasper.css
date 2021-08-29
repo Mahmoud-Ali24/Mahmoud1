@@ -183,7 +183,7 @@ header nav .form i {
 /* Start Landing  */
 .landing {
   min-height: 100vh;
-  background-image: url(../Images/landing.jpg);
+  background-image: url("../Images/landing.jpg");
   background-size: cover;
   position: relative;
 }
@@ -316,7 +316,7 @@ header nav .form i {
   padding: 100px 0;
   position: relative;
   height: 600px;
-  background-image: url(../Images/design-features.jpg);
+  background-image: url("../Images/design-features.jpg");
   background-size: cover;
   overflow: hidden;
   display: flex;
@@ -671,7 +671,7 @@ header nav .form i {
 /* Start quote */
 .quote {
   padding: 100px 0;
-  background-image: url(../Images/quote.jpg);
+  background-image: url("../Images/quote.jpg");
   background-size: cover;
   position: relative;
   color: white;
