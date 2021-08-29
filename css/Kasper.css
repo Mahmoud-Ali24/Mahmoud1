@@ -785,7 +785,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("../Images/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
@@ -937,7 +937,7 @@ header nav .form i {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("../images/subscribe.jpg");
+  background-image: url("../Images/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
